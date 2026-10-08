@@ -2,7 +2,7 @@
 
 Osobní portfolio: střih videa, grafika pro tisk i sítě, správa webu a články.
 
-Web: https://jakubhlousek.github.io
+Web: https://truffycz.github.io/jakubhlousek/
 
 ## Obsah složky
 
